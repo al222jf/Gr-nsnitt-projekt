@@ -1,0 +1,117 @@
+body div p h1 {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+#MainWrapper {
+	margin: auto;
+	height: 640px;
+	width: 360px;
+}
+
+#HeaderWrapper {
+	height: 60px;
+	width: 100%;
+	background-color: #0488D1;
+}
+
+#Header {
+	padding: 5px;
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
+
+#MenuWrapper {
+	height: 60px;
+	width: 100%;
+	background-color: #0488D1;
+}
+
+.MenuButton {
+	float: left;
+	width: 120px;
+	height: 100%;
+	text-align: center;
+}
+
+.MenuButton p {
+	margin: 0;
+	font-size: 20px;
+	padding: 10px 0 10px 0;
+}
+
+#MenuSelectionWrapper {
+	height: 5px;
+	width: 100%;
+	background-color: #0488D1;
+}
+
+#ActiveSelect {
+	background-color: white;
+}
+
+.MenuSelect {
+	height: 100%;
+	width: 120px;
+	float: left;
+}
+
+#MainContentWrapper {
+	height: 475px;
+	width: 100%;
+	background-color: #EBEBEB;
+}
+
+.ActiveWifi {
+	background-image: url(pics/wifi.png);
+}
+
+.ActiveGps {
+	background-image: url(pics/gps.png);
+}
+
+.ActiveNotes {
+	background-image: url(pics/notes.png);
+}
+
+#TriggerWrapper {
+	height: 40px;
+	width: 100%;
+	background-color: #0488D1;
+}
+
+.TriggerSelect {
+	height: 100%;
+	width: 120px;
+	float: left;
+	text-align: center;
+	font-size: 20px;
+}
+
+.TriggerSelect p {
+	margin: 0;
+	padding: 10px 0 10px 0;
+	color: white;
+}
+
+#Lock {
+	background-color: #0488D1; 
+	width: 360px;
+	margin: auto;
+	color: black;
+	font-size: 30px;
+	text-align: center;
+}
+
+#Alert {
+	height: 640px;
+	width: 360px;
+	margin: auto;
+	background-image: url(pics/alert.png);
+}
