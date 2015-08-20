@@ -100,6 +100,10 @@ a {
 	color: white;
 }
 
+.TriggerSelect img {
+	padding: 6px 0 5px 0;
+}
+
 #Lock {
 	background-color: #0488D1; 
 	width: 360px;
